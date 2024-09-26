@@ -14,7 +14,7 @@
   "main": "dist/index.js",
   "types": "declarations/index.d.ts",
   "engines": {
-    "node": ">= 12.13.0"
+    "node": ">= 10.13.0"
   },
   "scripts": {
     "start": "npm run build -- -w",
