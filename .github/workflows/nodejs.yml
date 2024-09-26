@@ -1,6 +1,7 @@
 name: schema-utils
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
